@@ -14,7 +14,9 @@ stock levels.
 
 • Checkout and Receipt Printing: Integrated checkout functionality with a detailed receipt printed to an Excel file
 using xlsxwriter.
+
 • Admin Panel: Provided an administrative interface for managing users and exporting user data to Excel.
+
 • Tools Used: Python.
 Tkinter (for GUI).
 JSON (for data storage).
